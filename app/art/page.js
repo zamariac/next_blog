@@ -1,11 +1,9 @@
 import React from 'react'
 
-// posts/new
-
 function page() {
   return (
     <div>
-      new posts
+      art
     </div>
   )
 }

@@ -1,11 +1,9 @@
-'use Client';
 import React from 'react'
-
 
 function page() {
   return (
     <div>
-      POSTS
+      design
     </div>
   )
 }
